@@ -1,0 +1,125 @@
+*{
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+#text-input {
+    padding: 10px;
+    width: 90%; 
+    max-width: 600px; 
+    height: 300px; 
+    overflow: auto; 
+    resize: both; 
+  }
+.container{
+    border: 4px solid rgb(210, 12, 196);
+    outline-style: solid;
+    outline-color: rgb(50, 4, 52);
+    outline-width: 8px;
+    width: 600px;
+    height: 440px;
+    position: relative;
+    padding: 20px;
+    margin-left:300px;
+    margin-top: 10px;
+}
+label{
+    font-size: larger ;
+}
+textarea{
+    margin-top: 10px;
+}
+
+
+.btn{
+    margin: 2px;
+    padding-left: 20px;
+}
+#upper{
+    padding: 2px 2px;
+    text-transform: capitalize;
+    background-color: blueviolet;
+    color: white;
+    border: 2px solid rgb(40, 1, 28);
+    cursor: pointer;
+    
+}
+#lower{
+    margin:2px 5px;
+    text-transform: capitalize;
+    background-color: rgb(6, 208, 114);
+    color: white;
+    padding: 2px 2px;
+    border: 2px solid rgb(7, 48, 29);
+    cursor: pointer;
+}
+#preview{
+    margin:2px 5px;
+    text-transform: capitalize;
+    background-color: rgb(162, 88, 10);
+    color: white;
+    padding: 2px 2px;
+    border: 2px solid rgb(79, 47, 4);
+    cursor: pointer;
+}
+
+#copy{
+    margin:2px 5px;
+    text-transform: capitalize;
+    background-color: rgb(231, 27, 159);
+    color: white;
+    padding: 2px 2px;
+    border: 2px solid rgb(84, 17, 56);
+    cursor: pointer;
+}
+
+#save{
+    margin:2px 5px;
+    text-transform: capitalize;
+    background-color: rgb(255, 44, 44);
+    color: white;
+    padding: 2px 2px;
+    border: 2px solid rgb(61, 16, 16);
+    cursor: pointer;
+}
+#copy{
+    margin:2px 5px;
+    text-transform: capitalize;
+    background-color: rgb(231, 27, 159);
+    color: white;
+    padding: 2px 2px;
+    border: 2px solid rgb(84, 17, 56);
+    cursor: pointer;
+}
+#clear{
+    margin:2px 5px;
+    text-transform: capitalize;
+    background-color: rgb(94, 156, 218);
+    color: white;
+    padding: 2px 2px;
+    border: 2px solid rgb(84, 17, 56);
+    cursor: pointer;
+}
+
+#prashant{
+    margin: 10px 2px;
+
+}
+
+#tyagi{
+    padding: 2px 2px;
+    cursor: pointer;
+    
+}
+
+.title{
+    text-align: center;
+    font-size: 30px;
+    text-shadow: 0 0 5px #FF0000;
+    margin: 10px 0px;
+}
+h2{
+    text-shadow: 0 0 5px #e310d1; 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+
+}
